@@ -1,4 +1,7 @@
-To start, run:
+First, run:
+### `npm install`
+
+To start application, run:
 
 ### `npm start`
 
